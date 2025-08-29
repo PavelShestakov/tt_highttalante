@@ -1,0 +1,13 @@
+version: '3.8'
+
+
+services:
+  django:
+    build:
+      context: .
+    container_name: django_main
+    command: gunicorn test_task.wsgi:application --bind 0.0.0.0:8000
+    volumes:
+      - .:/app
+    ports:
+      - "8000:8000"

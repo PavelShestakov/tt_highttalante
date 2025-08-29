@@ -1,261 +1,31 @@
-INFO 2025-08-28 16:12:18,226 views 12436 20752 ������ ������ ���� ��������
-INFO 2025-08-28 16:12:18,234 views 12436 16212 ��������� ������� � id=18
-INFO 2025-08-28 16:12:29,990 views 12436 8208 ������ ������ ���� ��������
-INFO 2025-08-28 16:12:29,996 views 12436 15284 ��������� ������� � id=18
-INFO 2025-08-28 17:25:55,347 autoreload 8704 5980 Watching for file changes with StatReloader
-INFO 2025-08-28 17:26:18,895 autoreload 8704 5980 D:\Desktop\Projects\tt_hitalante\tt_app\urls.py changed, reloading.
-INFO 2025-08-28 17:26:19,539 autoreload 17336 13160 Watching for file changes with StatReloader
-INFO 2025-08-28 17:27:16,886 autoreload 7348 1420 Watching for file changes with StatReloader
-WARNING 2025-08-28 17:27:33,772 log 16072 8328 Not Found: /api/v1/questions/
-WARNING 2025-08-28 17:27:33,925 log 16072 8328 Not Found: /api/v1/questions/1/
-INFO 2025-08-28 17:29:41,256 autoreload 20204 14804 Watching for file changes with StatReloader
-INFO 2025-08-28 17:29:43,909 views 20204 19144 Запрос списка всех вопросов
-INFO 2025-08-28 17:29:51,208 views 20204 19144 Получение вопроса с id=1
-WARNING 2025-08-28 17:29:53,429 log 20204 19144 Not Found: /api/v1/questions/
-INFO 2025-08-28 17:29:57,781 autoreload 20204 14804 D:\Desktop\Projects\tt_hitalante\tt_app\urls.py changed, reloading.
-INFO 2025-08-28 17:29:58,342 autoreload 17464 16196 Watching for file changes with StatReloader
-INFO 2025-08-28 17:29:59,540 views 17464 21332 Запрос списка всех вопросов
-INFO 2025-08-28 17:30:01,498 views 17464 16312 Запрос списка всех вопросов
-INFO 2025-08-28 17:30:12,635 autoreload 17464 16196 D:\Desktop\Projects\tt_hitalante\tt_app\urls.py changed, reloading.
-INFO 2025-08-28 17:30:13,154 autoreload 14572 18060 Watching for file changes with StatReloader
-INFO 2025-08-28 17:30:16,903 views 11244 21224 Запрос списка всех вопросов
-INFO 2025-08-28 17:30:16,918 views 11244 21224 Получение вопроса с id=1
-INFO 2025-08-28 17:32:01,292 autoreload 14572 18060 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:32:01,895 autoreload 15772 15532 Watching for file changes with StatReloader
-INFO 2025-08-28 17:32:20,306 autoreload 15772 15532 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:32:20,950 autoreload 17300 13268 Watching for file changes with StatReloader
-INFO 2025-08-28 17:32:24,113 views 17300 19396 Запрос списка всех вопросов
-INFO 2025-08-28 17:32:28,743 views 17300 20220 Получение вопроса с id=15
-INFO 2025-08-28 17:32:34,564 views 17300 20220 Получение вопроса с id=18
-INFO 2025-08-28 17:32:41,502 views 21180 3920 Запрос списка всех вопросов
-INFO 2025-08-28 17:32:41,516 views 21180 3920 Получение вопроса с id=1
-INFO 2025-08-28 17:33:11,617 autoreload 17300 13268 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:33:12,172 autoreload 16104 20508 Watching for file changes with StatReloader
-INFO 2025-08-28 17:33:13,101 views 16104 14900 Получение вопроса с id=18
-INFO 2025-08-28 17:33:17,153 views 11912 16628 Запрос списка всех вопросов
-INFO 2025-08-28 17:33:17,168 views 11912 16628 Получение вопроса с id=1
-INFO 2025-08-28 17:35:50,639 views 12844 924 Запрос списка всех вопросов
-INFO 2025-08-28 17:35:50,655 views 12844 924 Получение вопроса с id=1
-INFO 2025-08-28 17:37:28,031 autoreload 16104 20508 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:37:28,681 autoreload 6128 14928 Watching for file changes with StatReloader
-INFO 2025-08-28 17:39:22,021 autoreload 6128 14928 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:39:22,639 autoreload 17668 11468 Watching for file changes with StatReloader
-ERROR 2025-08-28 17:39:29,055 views 17668 14768 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:39:29,055 log 17668 14768 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:39:44,443 views 17668 14768 Запрос списка всех вопросов
-ERROR 2025-08-28 17:39:55,196 views 17668 8276 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:39:55,196 log 17668 8276 Internal Server Error: /api/v1/questions/18/
-ERROR 2025-08-28 17:40:00,133 views 17668 6212 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:40:00,133 log 17668 6212 Internal Server Error: /api/v1/questions/17/
-INFO 2025-08-28 17:40:32,998 autoreload 17668 11468 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:40:33,573 autoreload 3432 5232 Watching for file changes with StatReloader
-INFO 2025-08-28 17:41:20,192 autoreload 3432 5232 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:41:20,767 autoreload 7424 15688 Watching for file changes with StatReloader
-INFO 2025-08-28 17:41:22,516 views 7424 988 Получение вопроса с id=17
-INFO 2025-08-28 17:41:27,605 views 7424 988 Получение вопроса с id=18
-INFO 2025-08-28 17:43:14,292 autoreload 7424 15688 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:43:14,854 autoreload 10304 16716 Watching for file changes with StatReloader
-INFO 2025-08-28 17:43:16,854 views 10304 12988 Получение вопроса с id=18
-INFO 2025-08-28 17:43:17,553 views 10304 12988 Получение вопроса с id=18
-INFO 2025-08-28 17:43:18,011 views 10304 12988 Получение вопроса с id=18
-INFO 2025-08-28 17:43:27,305 autoreload 10304 16716 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:43:27,857 autoreload 15900 16628 Watching for file changes with StatReloader
-INFO 2025-08-28 17:43:51,427 autoreload 15900 16628 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:43:51,986 autoreload 11608 2924 Watching for file changes with StatReloader
-INFO 2025-08-28 17:43:54,845 views 11608 12280 Получение вопроса с id=18
-ERROR 2025-08-28 17:43:54,846 views 11608 12280 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:43:54,846 log 11608 12280 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:45:50,649 autoreload 11608 2924 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:45:51,356 autoreload 10100 1184 Watching for file changes with StatReloader
-INFO 2025-08-28 17:45:53,430 views 10100 6752 Получение вопроса с id=18
-ERROR 2025-08-28 17:45:53,431 views 10100 6752 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:45:53,431 log 10100 6752 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:45:54,071 views 10100 6752 Получение вопроса с id=18
-ERROR 2025-08-28 17:45:54,072 views 10100 6752 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:45:54,072 log 10100 6752 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:45:54,333 views 10100 6752 Получение вопроса с id=18
-ERROR 2025-08-28 17:45:54,336 views 10100 6752 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:45:54,337 log 10100 6752 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:45:58,615 autoreload 10100 1184 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:45:59,196 autoreload 3608 11108 Watching for file changes with StatReloader
-INFO 2025-08-28 17:46:00,973 views 3608 13724 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:00,974 views 3608 13724 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:00,975 log 3608 13724 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:01,463 views 3608 13724 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:01,464 views 3608 13724 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:01,464 log 3608 13724 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:01,621 views 3608 13724 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:01,621 views 3608 13724 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:01,622 log 3608 13724 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:08,541 autoreload 3608 11108 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:46:09,296 autoreload 18292 3272 Watching for file changes with StatReloader
-INFO 2025-08-28 17:46:10,188 views 18292 19196 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:10,189 views 18292 19196 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:10,190 log 18292 19196 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:10,327 views 18292 19196 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:10,328 views 18292 19196 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:10,328 log 18292 19196 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:10,635 views 18292 19196 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:10,635 views 18292 19196 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:10,635 log 18292 19196 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:10,869 views 18292 19196 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:10,870 views 18292 19196 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:10,871 log 18292 19196 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:26,699 autoreload 18292 3272 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:46:27,237 autoreload 15540 15072 Watching for file changes with StatReloader
-INFO 2025-08-28 17:46:34,280 autoreload 15540 15072 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:46:34,944 autoreload 4764 14928 Watching for file changes with StatReloader
-INFO 2025-08-28 17:46:36,759 views 4764 16252 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:36,760 views 4764 16252 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:36,760 log 4764 16252 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:37,247 views 4764 16252 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:37,248 views 4764 16252 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:37,248 log 4764 16252 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:46:37,446 views 4764 16252 Получение вопроса с id=18
-ERROR 2025-08-28 17:46:37,447 views 4764 16252 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:46:37,448 log 4764 16252 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:02,832 autoreload 4764 14928 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:47:03,370 autoreload 18460 3204 Watching for file changes with StatReloader
-INFO 2025-08-28 17:47:07,353 autoreload 18460 3204 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:47:07,931 autoreload 14608 5092 Watching for file changes with StatReloader
-INFO 2025-08-28 17:47:12,505 views 14608 19088 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:12,506 views 14608 19088 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:12,507 log 14608 19088 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:13,232 views 14608 19088 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:13,233 views 14608 19088 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:13,233 log 14608 19088 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:13,650 views 14608 19088 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:13,651 views 14608 19088 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:13,651 log 14608 19088 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:13,822 views 14608 19088 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:13,822 views 14608 19088 Ошибка при получении ответа от questions: Cannot find 'answers_set' on Question object, 'answers_set' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:13,824 log 14608 19088 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:24,549 autoreload 14608 5092 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:47:25,135 autoreload 3880 14504 Watching for file changes with StatReloader
-INFO 2025-08-28 17:47:26,279 views 3880 10984 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:26,281 views 3880 10984 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:26,281 log 3880 10984 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:26,914 views 3880 10984 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:26,915 views 3880 10984 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:26,915 log 3880 10984 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:27,279 views 3880 10984 Получение вопроса с id=18
-ERROR 2025-08-28 17:47:27,280 views 3880 10984 Ошибка при получении ответа от questions: Cannot find 'answers' on Question object, 'answers' is an invalid parameter to prefetch_related()
-ERROR 2025-08-28 17:47:27,280 log 3880 10984 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-28 17:47:33,230 autoreload 3880 14504 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:47:33,782 autoreload 18620 17200 Watching for file changes with StatReloader
-INFO 2025-08-28 17:47:35,462 views 18620 2932 Получение вопроса с id=18
-INFO 2025-08-28 17:47:51,794 views 9716 17692 Запрос списка всех вопросов
-INFO 2025-08-28 17:47:51,811 views 9716 17692 Получение вопроса с id=1
-INFO 2025-08-28 17:49:07,715 autoreload 18620 17200 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-28 17:49:08,305 autoreload 5160 10828 Watching for file changes with StatReloader
-INFO 2025-08-28 17:50:11,054 autoreload 5160 10828 D:\Desktop\Projects\tt_hitalante\tt_app\serializers.py changed, reloading.
-INFO 2025-08-28 17:50:11,610 autoreload 12732 17192 Watching for file changes with StatReloader
-INFO 2025-08-29 11:12:42,391 autoreload 13620 12596 Watching for file changes with StatReloader
-WARNING 2025-08-29 11:12:58,307 log 13620 13120 Not Found: /favicon.ico
-INFO 2025-08-29 11:13:01,421 views 13620 13120 Получение вопроса с id=18
-INFO 2025-08-29 11:13:54,248 views 13620 3128 Запрос списка всех вопросов
-INFO 2025-08-29 11:17:10,165 views 13620 13032 Запрос списка всех вопросов
-INFO 2025-08-29 11:17:10,178 views 13620 5272 Получение вопроса с id=18
-ERROR 2025-08-29 11:17:10,178 views 13620 5272 Ошибка при получении ответа от questions: Question matching query does not exist.
-ERROR 2025-08-29 11:17:10,178 log 13620 5272 Internal Server Error: /api/v1/questions/18/
-ERROR 2025-08-29 11:17:10,194 log 13620 3220 Internal Server Error: /api/v1/questions
-Traceback (most recent call last):
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
-    response = self.process_response(request, response)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
-    return self.response_redirect_class(self.get_full_path_with_slash(request))
-                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
-    raise RuntimeError(
-RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/v1/questions/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
-ERROR 2025-08-29 11:17:28,189 log 13620 9068 Internal Server Error: /api/v1/questions
-Traceback (most recent call last):
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
-    response = self.process_response(request, response)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
-    return self.response_redirect_class(self.get_full_path_with_slash(request))
-                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
-    raise RuntimeError(
-RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/v1/questions/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
-INFO 2025-08-29 11:18:39,708 views 13620 14864 Создание нового вопроса: {'text': 'Как дела?'}
-INFO 2025-08-29 11:18:39,724 serializers 13620 14864 Создан новый вопрос: 19_Как дела?
-INFO 2025-08-29 11:19:33,954 views 13620 2164 Создание нового вопроса: {'text': 'Как дела?'}
-INFO 2025-08-29 11:19:33,969 serializers 13620 2164 Создан новый вопрос: 20_Как дела?
-INFO 2025-08-29 11:20:05,492 views 13620 11808 Запрос списка всех вопросов
-INFO 2025-08-29 11:20:05,502 views 13620 7764 Получение вопроса с id=18
-ERROR 2025-08-29 11:20:05,502 views 13620 7764 Ошибка при получении ответа от questions: Question matching query does not exist.
-ERROR 2025-08-29 11:20:05,502 log 13620 7764 Internal Server Error: /api/v1/questions/18/
-INFO 2025-08-29 11:20:24,959 views 13620 8700 Запрос списка всех вопросов
-INFO 2025-08-29 11:20:24,975 views 13620 1660 Получение вопроса с id=20
-INFO 2025-08-29 11:20:57,406 views 13620 8952 Запрос списка всех вопросов
-INFO 2025-08-29 11:20:57,431 views 13620 15744 Получение вопроса с id=20
-ERROR 2025-08-29 11:20:57,453 log 13620 3060 Internal Server Error: /api/v1/questions/20/answers
-Traceback (most recent call last):
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
-    response = self.process_response(request, response)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
-    return self.response_redirect_class(self.get_full_path_with_slash(request))
-                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
-    raise RuntimeError(
-RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/v1/questions/20/answers/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
-INFO 2025-08-29 11:21:22,569 autoreload 13620 12596 D:\Desktop\Projects\tt_hitalante\test_task\settings.py changed, reloading.
-INFO 2025-08-29 11:21:23,131 autoreload 10792 15640 Watching for file changes with StatReloader
-WARNING 2025-08-29 11:21:28,158 log 10792 2884 Not Found: /api/v1/questions
-WARNING 2025-08-29 11:21:28,158 log 10792 14276 Not Found: /api/v1/questions/20
-WARNING 2025-08-29 11:21:28,173 log 10792 7428 Not Found: /api/v1/questions/20/answers
-INFO 2025-08-29 11:22:00,253 autoreload 10792 15640 D:\Desktop\Projects\tt_hitalante\test_task\settings.py changed, reloading.
-INFO 2025-08-29 11:22:00,857 autoreload 6812 2184 Watching for file changes with StatReloader
-INFO 2025-08-29 11:22:05,375 views 6812 348 Запрос списка всех вопросов
-INFO 2025-08-29 11:22:05,390 views 6812 16204 Получение вопроса с id=20
-ERROR 2025-08-29 11:22:05,415 log 6812 12088 Internal Server Error: /api/v1/questions/20/answers
-Traceback (most recent call last):
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
-    response = get_response(request)
-               ^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\utils\deprecation.py", line 136, in __call__
-    response = self.process_response(request, response)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 108, in process_response
-    return self.response_redirect_class(self.get_full_path_with_slash(request))
-                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "D:\Desktop\Projects\tt_hitalante\.venv\Lib\site-packages\django\middleware\common.py", line 87, in get_full_path_with_slash
-    raise RuntimeError(
-RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/v1/questions/20/answers/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
-INFO 2025-08-29 11:22:18,223 views 6812 12744 Запрос списка всех вопросов
-INFO 2025-08-29 11:22:18,234 views 6812 4656 Получение вопроса с id=20
-INFO 2025-08-29 11:22:34,175 views 6812 16376 Запрос списка всех вопросов
-INFO 2025-08-29 11:22:34,184 views 6812 15980 Получение вопроса с id=20
-INFO 2025-08-29 11:27:06,401 autoreload 6812 2184 D:\Desktop\Projects\tt_hitalante\tt_app\views.py changed, reloading.
-INFO 2025-08-29 11:27:07,420 autoreload 9812 14596 Watching for file changes with StatReloader
-INFO 2025-08-29 11:27:49,912 views 9812 16112 Запрос списка всех вопросов
-INFO 2025-08-29 11:27:49,928 views 9812 10368 Получение вопроса с id=20
-INFO 2025-08-29 11:28:09,482 views 9812 8040 Запрос списка всех вопросов
-INFO 2025-08-29 11:28:09,494 views 9812 12044 Получение вопроса с id=20
-INFO 2025-08-29 11:28:09,516 views 9812 15696 Вопрос с id=20 удален успешно
-INFO 2025-08-29 11:28:18,099 views 9812 15876 Запрос списка всех вопросов
-INFO 2025-08-29 11:28:18,115 views 9812 11640 Получение вопроса с id=20
-ERROR 2025-08-29 11:28:18,115 views 9812 11640 Ошибка при получении ответа от questions: Question matching query does not exist.
-ERROR 2025-08-29 11:28:18,115 log 9812 11640 Internal Server Error: /api/v1/questions/20/
-WARNING 2025-08-29 11:28:18,115 views 9812 15708 Попытка удаления несуществующего вопроса id=20
-WARNING 2025-08-29 11:28:18,122 log 9812 15708 Not Found: /api/v1/questions/20/
-INFO 2025-08-29 11:36:46,484 autoreload 5280 8804 Watching for file changes with StatReloader
-INFO 2025-08-29 11:36:56,063 views 5280 15416 Запрос списка всех вопросов
-INFO 2025-08-29 11:36:56,075 views 5280 4940 Получение вопроса с id=20
-ERROR 2025-08-29 11:36:56,076 views 5280 4940 Ошибка при получении ответа от questions: Question matching query does not exist.
-ERROR 2025-08-29 11:36:56,077 log 5280 4940 Internal Server Error: /api/v1/questions/20/
-WARNING 2025-08-29 11:36:56,081 views 5280 5888 Попытка удаления несуществующего вопроса id=20
-WARNING 2025-08-29 11:36:56,081 log 5280 5888 Not Found: /api/v1/questions/20/
+INFO 2025-08-29 12:17:37,422 autoreload 13136 16856 Watching for file changes with StatReloader
+INFO 2025-08-29 12:17:42,982 views 13136 2996 ������ ������ ���� ��������
+INFO 2025-08-29 12:18:03,605 views 13136 17588 ������ ������ ���� ��������
+INFO 2025-08-29 12:18:03,664 views 13136 4216 ��������� ������� � id=20
+ERROR 2025-08-29 12:18:03,715 views 13136 4216 ������ ��� ��������� ������ �� questions: Question matching query does not exist.
+ERROR 2025-08-29 12:18:03,715 log 13136 4216 Internal Server Error: /api/v1/questions/20/
+INFO 2025-08-29 12:18:03,718 views 13136 8808 �������� ������ �������: {'text': '��� ����?'}
+INFO 2025-08-29 12:18:03,781 serializers 13136 8808 ������ ����� ������: 1_��� ����?
+WARNING 2025-08-29 12:18:03,833 views 13136 18900 ������� �������� ��������������� ������� id=20
+WARNING 2025-08-29 12:18:03,834 log 13136 18900 Not Found: /api/v1/questions/20/
+INFO 2025-08-29 12:18:07,182 views 13136 19840 ������ ������ ���� ��������
+INFO 2025-08-29 12:18:07,339 views 13136 14160 ��������� ������� � id=20
+ERROR 2025-08-29 12:18:07,388 views 13136 14160 ������ ��� ��������� ������ �� questions: Question matching query does not exist.
+ERROR 2025-08-29 12:18:07,388 log 13136 14160 Internal Server Error: /api/v1/questions/20/
+INFO 2025-08-29 12:18:07,392 views 13136 10368 �������� ������ �������: {'text': '��� ����?'}
+INFO 2025-08-29 12:18:07,442 serializers 13136 10368 ������ ����� ������: 2_��� ����?
+WARNING 2025-08-29 12:18:07,498 views 13136 18988 ������� �������� ��������������� ������� id=20
+WARNING 2025-08-29 12:18:07,498 log 13136 18988 Not Found: /api/v1/questions/20/
+INFO 2025-08-29 12:18:11,304 views 13136 19112 ������ ������ ���� ��������
+INFO 2025-08-29 12:18:11,471 views 13136 17604 ��������� ������� � id=20
+ERROR 2025-08-29 12:18:11,631 views 13136 17604 ������ ��� ��������� ������ �� questions: Question matching query does not exist.
+ERROR 2025-08-29 12:18:11,631 log 13136 17604 Internal Server Error: /api/v1/questions/20/
+INFO 2025-08-29 12:18:11,634 views 13136 16640 �������� ������ �������: {'text': '��� ����?'}
+INFO 2025-08-29 12:18:11,684 serializers 13136 16640 ������ ����� ������: 3_��� ����?
+WARNING 2025-08-29 12:18:11,740 views 13136 19156 ������� �������� ��������������� ������� id=20
+WARNING 2025-08-29 12:18:11,740 log 13136 19156 Not Found: /api/v1/questions/20/
+INFO 2025-08-29 12:22:42,536 views 4508 4820 ������ ������ ���� ��������
+INFO 2025-08-29 12:22:42,543 views 4508 4820 ��������� ������� � id=2
+INFO 2025-08-29 12:23:11,156 views 9040 6828 ������ ������ ���� ��������
+INFO 2025-08-29 12:23:11,175 views 9040 6828 ��������� ������� � id=2
+INFO 2025-08-29 12:30:15,228 autoreload 8840 14236 Watching for file changes with StatReloader

@@ -85,7 +85,7 @@ WSGI_APPLICATION = 'test_task.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-
+"""
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
@@ -96,15 +96,18 @@ DATABASES = {
 """
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'test_task_db',
         'USER': 'postgres',
-        'PASSWORD': 'PASSWORD',
-        'HOST': '127.0.0.2',
+        'PASSWORD': 'admin',
+        'HOST': 'localhost', #localhost 127.0.0.2
         'PORT': '5432',
+        'OPTIONS': {
+            'client_encoding': 'UTF8',
+        },
     }
 }
-"""
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
@@ -167,7 +170,7 @@ LOGGING = {
             'class': 'logging.FileHandler',
             'filename': 'debug.log',
             'formatter': 'verbose',
-            'encoding': 'utf-8'
+            #'encoding': 'utf-8'
         },
         'console': {
             'level': 'INFO',
@@ -187,6 +190,3 @@ LOGGING = {
         },
     },
 }
-
-
-APPEND_SLASH=True

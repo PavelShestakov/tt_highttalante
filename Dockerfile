@@ -13,7 +13,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-RUN python3 manage.py migrate
 RUN python3 manage.py makemigrations
 RUN python3 manage.py migrate
 
